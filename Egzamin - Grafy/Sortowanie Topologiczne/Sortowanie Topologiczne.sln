@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sortowanie Topologiczne", "Sortowanie Topologiczne\Sortowanie Topologiczne.pyproj", "{4D327B95-7003-446B-996F-CE7D7246FF7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D327B95-7003-446B-996F-CE7D7246FF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D327B95-7003-446B-996F-CE7D7246FF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BED088E9-AC7B-4773-B491-11FB18FF01B3}
+	EndGlobalSection
+EndGlobal

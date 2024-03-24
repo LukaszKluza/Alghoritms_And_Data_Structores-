@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Drogi Rowerowe", "Drogi Rowerowe\Drogi Rowerowe.pyproj", "{DDC3D505-EC00-4E68-8C77-B7E61C03162E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC3D505-EC00-4E68-8C77-B7E61C03162E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC3D505-EC00-4E68-8C77-B7E61C03162E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFA59919-DDD4-434B-9143-2E9D5BBE6B97}
+	EndGlobalSection
+EndGlobal

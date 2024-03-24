@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Silne_spojdne_skladowe", "Silne_spojdne_skladowe\Silne_spojdne_skladowe.pyproj", "{E93DAD2A-8529-48C7-AFA7-C96B106EC4A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E93DAD2A-8529-48C7-AFA7-C96B106EC4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93DAD2A-8529-48C7-AFA7-C96B106EC4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3AB12A1-6E63-4EA3-B779-CF6D75D54C3A}
+	EndGlobalSection
+EndGlobal

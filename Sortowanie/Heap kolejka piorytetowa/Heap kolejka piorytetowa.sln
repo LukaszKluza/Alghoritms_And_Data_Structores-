@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Heap kolejka piorytetowa", "Heap kolejka piorytetowa\Heap kolejka piorytetowa.pyproj", "{B1F273E5-5F0D-497F-9BFB-64FA6EC1859F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F273E5-5F0D-497F-9BFB-64FA6EC1859F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F273E5-5F0D-497F-9BFB-64FA6EC1859F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10FCEE49-189B-416A-B243-6EF1A4CE18FF}
+	EndGlobalSection
+EndGlobal

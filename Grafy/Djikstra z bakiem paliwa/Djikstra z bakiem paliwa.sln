@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Djikstra z bakiem paliwa", "Djikstra z bakiem paliwa\Djikstra z bakiem paliwa.pyproj", "{AC2B72F2-CE67-4C32-ACC4-BB62B775B960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2B72F2-CE67-4C32-ACC4-BB62B775B960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2B72F2-CE67-4C32-ACC4-BB62B775B960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758438EE-9AE7-4E00-8CEB-C86FF8B4940E}
+	EndGlobalSection
+EndGlobal

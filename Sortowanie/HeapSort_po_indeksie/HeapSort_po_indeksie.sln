@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HeapSort_po_indeksie", "HeapSort_po_indeksie\HeapSort_po_indeksie.pyproj", "{E0A3A348-52AB-4B99-A71F-A98C5FF347D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A3A348-52AB-4B99-A71F-A98C5FF347D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A3A348-52AB-4B99-A71F-A98C5FF347D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {578E3277-FD20-4671-B917-666DE1A5F101}
+	EndGlobalSection
+EndGlobal

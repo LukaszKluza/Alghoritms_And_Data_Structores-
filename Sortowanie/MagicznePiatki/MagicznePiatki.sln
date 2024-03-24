@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MagicznePiatki", "MagicznePiatki\MagicznePiatki.pyproj", "{FD6CB3FE-8D55-4269-86A7-A405A5467F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6CB3FE-8D55-4269-86A7-A405A5467F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6CB3FE-8D55-4269-86A7-A405A5467F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76C4036D-9BF1-4E75-A8C9-5EE3E6403EC6}
+	EndGlobalSection
+EndGlobal
